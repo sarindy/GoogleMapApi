@@ -1,0 +1,10 @@
+@charset "UTF-8";
+
+p {
+	margin-top: 10px;
+	color: #000;
+}
+
+.obj-border {
+	border: 1px solid #ddd;
+}
